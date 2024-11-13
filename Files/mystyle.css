@@ -100,7 +100,7 @@ body
   color: #0A3409;
 }
 
-#footer
+footer
 {
   background-color:#0A3409;
   overflow:hidden;
@@ -109,7 +109,7 @@ body
   margin-right: 540px
 }
 
-#footer ul
+footer ul
 {
   list-style-type: none;
   margin:0;
@@ -117,12 +117,12 @@ body
   text-align:right;
 }
 
-#footer li
+footer li
 {
   display:inline-block;
 }
 
-#footer li a
+footer li a
 {
   display:block;
   padding: 10px;
@@ -131,7 +131,7 @@ body
   font-weight: bold;
 
 }
-#footer li a: hover
+footer li a: hover
 {
   background-color: grey;
 }
