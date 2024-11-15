@@ -71,9 +71,21 @@ body
   text-decoration:none;
   font-weight: bold;
 }
+
 #nav li a: hover
 {
   background-color: grey;
+}
+
+div:hover li a
+{
+ background-color: green;
+ color:white;
+}
+
+div:active li a {
+ background-color: green);
+ color: white;
 }
 
 .content
